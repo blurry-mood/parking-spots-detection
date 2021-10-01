@@ -1,0 +1,28 @@
+# dataset split: the rest goes for training
+seed: 1
+split:
+    val: 0.1
+    test: 0.2
+    
+# dataloader params
+train_loader:
+    batch_size: 2
+    pin_memory: true
+    num_workers: 8
+    shuffle: false
+val_loader:
+    batch_size: 2
+    pin_memory: true
+    num_workers: 8
+    shuffle: false
+test_loader:
+    batch_size: 2
+    pin_memory: true
+    num_workers: 8
+    shuffle: false
+
+    
+# transforms
+train_transforms:
+val_transforms:
+test_transforms:
