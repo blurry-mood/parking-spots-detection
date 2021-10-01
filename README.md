@@ -39,7 +39,6 @@ Raw image                  |  YOLOV5 predictions
 
 
 ## Model summary:
-
-| Model | mAP@.5 | mAP@.5:.95 | GFLOPs |               
-| --- | --- | --- | --- | --- | 
-[YOLOv5s](trained/yolov5s_640.pt) | 0.854 | 0.388 | 16.3 |
+| Model | mAP@.5 | mAP@.5:.95 | GFLOPs |
+| --- | --- | --- | --- |
+| [YOLOv5s](trained/yolov5s_640.pt) | 0.854 | 0.388 | 16.3 |
