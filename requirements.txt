@@ -1,0 +1,8 @@
+deepblocks
+pytorch-lightning
+timm
+albumentations
+
+omegaconf
+
+wandb
