@@ -42,3 +42,11 @@ Raw image                  |  YOLOV5 predictions
 | Model | mAP@.5 | mAP@.5:.95 | GFLOPs |
 | --- | --- | --- | --- |
 | [YOLOv5s](trained/yolov5s_640.pt) | 0.854 | 0.388 | 16.3 |
+
+
+## References:
+```
+Amato, Giuseppe and Carrara, Fabio and Falchi, Fabrizio and Gennaro, Claudio and Meghini, Carlo and Vairo, Claudio [2017]
+Deep learning for decentralized parking lot occupancy detection.
+Expert Systems with Applications, Volume 72.
+```
